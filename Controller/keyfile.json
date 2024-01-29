@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-projects-400322",
+  "private_key_id": "bfeac762e9fe3c33cc89efddbd5ccecb9bc838a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCKEp7Fzjzbl1G\nwnCc/2uf5OrCxPBPbwrQaq13+JwtFjYLzEh87ajX200YZljlYgW49SbJ498aRMqs\n/9pFmEHhB0zsR+ofvb1hiASaGvmXu4pG+1G7IhbrQO2r6fG+WCoe6Xm1yoYTsYtN\no5626UnB7av0sciNY1XcpZOrctJMRD8Wgu1rn2JqmsCj2qOLStm1RK8OV5KVN4F9\nEtpdVoJVFbhp2X/iMhq8+ashs8HIKpaS2B83pEXtuGFnIsVYP9M5+csuG3CAYoKO\n6sxt/1S551Gf91R8AB4FTm2C1Aayx5s4jsi7/4lHtsQxHSXedVAbb3FR8udMJOIT\nd+vaB033AgMBAAECggEANfbr6LWGK0cAHwQ5N7HYkJsYUyVY48Mp3s7fwyozAmcb\ng4D2nt6RoNl/3qnHyI3LqGJfMxsmbg8zxAzi9pgAq5KTY1MDtGnQ4vRizxBzUiSa\npOsChwBNHXsw9Cj0e6LWpjvfi9MsG/orjVtOaGmECiZMtpjZdM7o1QiieDNUV0Te\nn+MggM1q0BD5Etjo38Nqufk9p0OTyK7sqklQeIMDivig3j+LrEwIYUQdROa+LDUD\nJCJXHDn3BhptSFDLSuhw6yHNBKwpEZlSMl6D9T59mpD8kPQPVYup2r8VULnU1maK\nVrYAqltH69ayIrudFWgQcgGXwG+IgHJuFrh+eKtifQKBgQDr/Kv76y4Q9WpcHOsd\nCKn/DLxLQ8kFbdCblmn+05YZmbwwJiCcCF34VYUIHk25X5Qk2SlYqKBY8lw2v3eu\n572pQL0TyGcFrVG7t1rcAgn2SKkxgLEKda5UmboTf9Y5QYBGQ4lOLWRLGqZQOuvd\nwKXfyLrjBQr2GKGXf60t3vDYmwKBgQDSn31CcIN7OCfaWd1kiEm6CmXkf1RqnqIC\n2zLpv8SqrFoMKakNZYlGAXHqtZh8TFnEtHR0i7nENdpzO7YyH3oe2U2xBGSAx7fv\n/Ue2ErIIDxFDa2czErVE6eeJQbu4SbuFCD4Pzhwpu5yrdGv1p47kF3QHzbaw4i77\nJ/8z7vYP1QKBgQCg8iX13XMAm/BbPFnZ5mPSkEQHbQa3ziqdQput8W6IrUIc8JQC\n9u3oBaOCYvCNgjNOYlGBpxgdMcZUjIc64dCHk6Cg0mf5BjkdNrMgI7/ZmbrTCTs1\nsAciqemvjNt1F0g+I6eMiwbA9j8Brv3YsqAunP9g/7p3F1t2MNzS0R8gCwKBgGma\nM7iLJzExr7Gn2vwb5TNVIU9WlCG9Fafu9XEDiHy2W5O7k5o27YPfF5nBoQm5Ukzw\n2W7R27tH8RZTuv8YjydGdtCpTibPfCbky/67Eu49d79g62ZNG/vIdyF3hsJYnZ+O\nyWctRSubeGryvWp2r4snQzLibpXzYfDlVexZBKBdAoGBAJcrY/0T++dtd4xqz5n5\nfDe+or/rD0d0dFMduJrbwvBhXNUlTJBNx/WqxBGKeRFu8XN2F2oQm5Z2Wu0Avof6\nFDiydqZusLcrrxqGxjLWX2TA79NhuOq+k/iFeCnucDXppU2ELjviMeBmSnhbuDNg\n89M7xEd5QyKpXLgUHyrPEevS\n-----END PRIVATE KEY-----\n",
+  "client_email": "ifacad-bucket@cloud-projects-400322.iam.gserviceaccount.com",
+  "client_id": "111544751231133884998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ifacad-bucket%40cloud-projects-400322.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
